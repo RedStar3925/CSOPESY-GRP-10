@@ -1,8 +1,13 @@
 CSOPESY S18 Group 10
+
 Patricia Baterina
+
 Angela Miguel
+
 Sebastien Naling
+
 Montgomery Santos
+
 
 To compile and run the code open and run the "OS_proj.sln" file with Visual Studio (not Visual Studio Code) by pressing the "Local Windows Debugger" button.
 
