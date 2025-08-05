@@ -1,0 +1,11 @@
+CPU utilization: 100%
+Cores used: 4
+Cores available: 0
+---------------
+Running processes:
+p3 08/05/2025, 03:24:20 PM Core: 1 28 / 1299
+p10 08/05/2025, 03:24:20 PM Core: 2 12 / 1274
+p6 08/05/2025, 03:24:20 PM Core: 3 20 / 1675
+p13 08/05/2025, 03:24:20 PM Core: 4 7 / 1538
+Finished processes:
+---------------

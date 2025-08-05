@@ -1,0 +1,6 @@
+pid 745629839
+processName p2
+totalInstructions 5000
+memoryRequired 512
+memPerFrame 64
+commandCounter 8
