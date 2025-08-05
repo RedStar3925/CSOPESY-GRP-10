@@ -14,3 +14,4 @@ To compile and run the code open and run the "OS_proj.sln" file with Visual Stud
 Notes:
 - When using the command "initialize" it will keep say "enter a command: Command not found" but it functions properly and the other commands can be used afterwards.
 - When using the command "scheduler-start" it will keep printing the "Hello world from [process]" but it will still register commands being typed, so other commands can still be used afterwards.
+- screen -c must be specifically in this format: screen -c <process_name> <process_memory_size> "<instructions>", the process_memory_size can be 256
