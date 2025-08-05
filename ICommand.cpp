@@ -224,8 +224,6 @@ std::string stripParens(const std::string& input) {
 std::shared_ptr<ICommand> createInstructionFromString(int pid, const std::string& raw) {
 	std::string keyword = extractKeyword(raw);
 
-	std::cout << "Creating command from raw: " << raw << std::endl;
-
 	if (keyword == "PRINT") {
 		size_t lparen = raw.find('(');
 		size_t rparen = raw.rfind(')');
